@@ -1,7 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p185209-e1936624.adobeaemcloud.com/bin/franklin.delivery/woutervangeluwe/techinsiders53-citisignal-aem-accs/main"
-    type: "markup"
-    suffix: ".html"
-folders:
-  /products/: /products/default 
